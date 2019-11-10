@@ -1,1 +1,1 @@
-# micro-service-workshop
+# message-board-workshop
